@@ -1,6 +1,6 @@
 
   # Good-README-Generator
-
+  ![](images/readme.png)
   ### Description
 
   The project entails creating an app and making it user friendly. There will be instructions on how to use the app and how to install the app. The app will be easier to debug and developers could contribute troubleshoot easily.
